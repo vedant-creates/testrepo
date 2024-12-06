@@ -1,3 +1,3 @@
-# testrepo
+# Python Basics for AI and DataScience
 
-## Editing the file
+## This is the project for Python Basics for AI and DataScience
